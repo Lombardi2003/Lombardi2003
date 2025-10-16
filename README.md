@@ -1,13 +1,18 @@
 ## Hi, I'm Daniele ​🚀
+
 <p align="justify">
-I am an Italian developer who likes to experiment in the world of computing.
-Currently, I’m a computer science student and in my free time I work on developing projects using HTML, CSS, JavaScript, Python and many others.
-I deal with the structure of e-commerce sites for different companies and create websites customized for each need, taking care of design, development and implementation, as well as the graphic aspect.
+
+👋 I’m **Daniele**, an Italian developer and **bachelor’s degree student in Computer Science**, passionate about exploring new technologies and building innovative solutions.  
+
+🎨 I love combining **design** and **development**, taking care of both the **technical structure** and the **visual aspect** of projects.  
+
+🌱 I constantly explore new technologies like **HTML, CSS, JavaScript, Python**, and **AI frameworks** such as **Ollama**, **LangChain**, and more, aiming to improve my skills and build exciting, functional projects.  
+
+✨ Fun fact: I enjoy turning ideas into **interactive and engaging experiences**, whether it’s a website, a small Python tool, or an AI project.
+
 </p>
 
----
-
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <div align="center">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
@@ -32,9 +37,7 @@ I deal with the structure of e-commerce sites for different companies and create
 
 </div>
 
----
-
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lombardi2003&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lombardi2003&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"/>
