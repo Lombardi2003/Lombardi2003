@@ -2,13 +2,13 @@
 
 <p align="justify">
 
-👋 I’m **Daniele**, an Italian developer and **bachelor’s degree student in Computer Science**, passionate about exploring new technologies and building innovative solutions.  
+👋 I’m **Daniele**, an Italian developer and **bachelor’s degree student in Computer Science** (laureando), with a strong passion for exploring new technologies, experimenting with innovative tools, and turning ideas into functional solutions. I enjoy challenging myself with new programming languages, frameworks, and AI tools, always looking for ways to improve and grow as a developer.  
 
 🎨 I love combining **design** and **development**, taking care of both the **technical structure** and the **visual aspect** of projects.  
 
 🌱 I constantly explore new technologies like **HTML, CSS, JavaScript, Python**, and **AI frameworks** such as **Ollama**, **LangChain**, and more, aiming to improve my skills and build exciting, functional projects.  
 
-✨ Fun fact: I enjoy turning ideas into **interactive and engaging experiences**, whether it’s a website, a small Python tool, or an AI project.
+✨ Fun fact: I enjoy turning ideas into **interactive and engaging experiences**, whether it’s a website, a small Python tool, or an AI project. I always try to blend creativity and logic to make projects both **beautiful** and **efficient**.
 
 </p>
 
