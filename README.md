@@ -2,9 +2,9 @@
 
 <p align="justify">
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-👋 I’m **Daniele**, an Italian developer and **bachelor’s degree student in Computer Science** (laureando), with a strong passion for exploring new technologies, experimenting with innovative tools, and turning ideas into functional solutions. I enjoy challenging myself with new programming languages, frameworks, and AI tools, always looking for ways to improve and grow as a developer.  
+👋 I’m Daniele, an Italian developer and Bachelor’s degree student in Computer Science, with a strong passion for exploring new technologies, experimenting with innovative tools, and turning ideas into functional solutions. I enjoy challenging myself with new programming languages, frameworks, and AI tools, always looking for ways to improve and grow as a developer.  
 
-🎨 I love combining **design** and **development**, taking care of both the **technical structure** and the **visual aspect** of projects.  
+🎨 I love combining design and development, taking care of both the <b>technical structure</b> and the **visual aspect** of projects.  
 
 🌱 I constantly explore new technologies like **HTML, CSS, JavaScript, Python**, and **AI frameworks** such as **Ollama**, **LangChain**, and more, aiming to improve my skills and build exciting, functional projects.  
 
