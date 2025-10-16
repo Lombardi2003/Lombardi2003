@@ -1,4 +1,4 @@
-## Hi, I'm Daniele ​🚀
+<h1 align="center">🚀 Hi, I'm Daniele 🚀</h1>
 
 <p align="justify">
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
@@ -38,7 +38,16 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lombardi2003&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lombardi2003&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"/>
- <img src="https://nirzak-streak-stats.vercel.app/?user=Lombardi2003&theme=tokyonight&hide_border=false" height="150"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Lombardi2003&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" height="150"/>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Lombardi2003&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" height="150" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Lombardi2003&count_private=true&theme=react&border_radius=10" height="150"/>
+</div>
+
+--- 
+
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Lombardi2003&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  
+  <br/>
+  
 </div>
