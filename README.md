@@ -3,12 +3,15 @@
 <p align="justify">
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 👋 I’m Daniele, an Italian developer and Bachelor’s degree student in Computer Science, with a strong passion for exploring new technologies, experimenting with innovative tools, and turning ideas into functional solutions. I enjoy challenging myself with new programming languages, frameworks, and AI tools, always looking for ways to improve and grow as a developer.  
-
-🎨 I love combining design and development, taking care of both the <b>technical structure</b> and the **visual aspect** of projects.  
-
-🌱 I constantly explore new technologies like **HTML, CSS, JavaScript, Python**, and **AI frameworks** such as **Ollama**, **LangChain**, and more, aiming to improve my skills and build exciting, functional projects.  
-
-✨ Fun fact: I enjoy turning ideas into **interactive and engaging experiences**, whether it’s a website, a small Python tool, or an AI project. I always try to blend creativity and logic to make projects both **beautiful** and **efficient**.
+</p>
+<p align="justify">
+🎨 I love combining design and development, taking care of both the <b>technical structure</b> and the <b>visual aspect</b> of projects.  
+</p>
+<p align="justify">
+🌱 I constantly explore new technologies like <b>HTML, CSS, JavaScript, Python</b>, and <b>AI frameworks</b> such as <b>Ollama</b>, <b>LangChain</b>, and more, aiming to improve my skills and build exciting, functional projects.  
+</p>
+<p align="justify">
+✨ Fun fact: I enjoy turning ideas into <b>interactive and engaging experiences</b>, whether it’s a website, a small Python tool, or an AI project. I always try to blend creativity and logic to make projects both <b>beautiful</b> and <b>efficient</b>.
 </p>
 
 ## 💻 Tech Stack:
